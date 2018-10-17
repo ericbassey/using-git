@@ -1,0 +1,49 @@
+.eric{
+    background-color:rgb(16, 163, 151);
+}
+
+.mot{
+    text-align-last:center; white;
+    padding-top: 2%;
+    padding-bottom:5%;
+    
+}
+
+.secondpage{
+    text-align: center;
+}
+.H :hover{
+    display: inline-block;
+    color: rgb(9, 143, 143);
+    /* cursor:pointer; */
+
+}
+.B :hover{
+    display:inline-block;
+    color: brown;
+    cursor: pointer;
+    background-color: bisque;
+    box-shadow: 0rem;
+
+}
+.footer {
+    background-color: rgb(22, 22, 46);
+    color: aliceblue;
+}
+.footericons:hover{
+    cursor: pointer;
+}
+.footer2{
+    background-color: rgb(44, 19, 19);
+    color: rgb(230, 228, 228);
+    padding-top:2%;
+    padding-bottom:5%;
+    
+}
+.footer3{
+    background-color: #ff00001f;
+    padding-bottom:5%
+}
+.searchbutton{
+    cursor: pointer;
+}
